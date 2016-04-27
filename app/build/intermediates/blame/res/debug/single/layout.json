@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/cserrao/AndroidStudioProjects/androidStorage/app/build/intermediates/res/merged/debug/layout/activity_shared_preferences.xml",
+        "source": "/Users/cserrao/AndroidStudioProjects/androidStorage/app/src/main/res/layout/activity_shared_preferences.xml"
+    },
+    {
+        "merged": "/Users/cserrao/AndroidStudioProjects/androidStorage/app/build/intermediates/res/merged/debug/layout/activity_internal_memory.xml",
+        "source": "/Users/cserrao/AndroidStudioProjects/androidStorage/app/src/main/res/layout/activity_internal_memory.xml"
+    },
+    {
+        "merged": "/Users/cserrao/AndroidStudioProjects/androidStorage/app/build/intermediates/res/merged/debug/layout/custom_row_view.xml",
+        "source": "/Users/cserrao/AndroidStudioProjects/androidStorage/app/src/main/res/layout/custom_row_view.xml"
+    },
+    {
+        "merged": "/Users/cserrao/AndroidStudioProjects/androidStorage/app/build/intermediates/res/merged/debug/layout/activity_external_memory.xml",
+        "source": "/Users/cserrao/AndroidStudioProjects/androidStorage/app/src/main/res/layout/activity_external_memory.xml"
+    },
+    {
+        "merged": "/Users/cserrao/AndroidStudioProjects/androidStorage/app/build/intermediates/res/merged/debug/layout/activity_sqlite_activity_details.xml",
+        "source": "/Users/cserrao/AndroidStudioProjects/androidStorage/app/src/main/res/layout/activity_sqlite_activity_details.xml"
+    },
+    {
+        "merged": "/Users/cserrao/AndroidStudioProjects/androidStorage/app/build/intermediates/res/merged/debug/layout/activity_sqlite.xml",
+        "source": "/Users/cserrao/AndroidStudioProjects/androidStorage/app/src/main/res/layout/activity_sqlite.xml"
+    },
+    {
+        "merged": "/Users/cserrao/AndroidStudioProjects/androidStorage/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/cserrao/AndroidStudioProjects/androidStorage/app/src/main/res/layout/activity_main.xml"
+    }
+]
